@@ -1,0 +1,7 @@
+
+3 observations:
+
+1. The cities close to the equator have higher max temperature
+2. There are no clear relation between latitude, cloudiness, humidity and wind speed
+3. There are a lot of cities with Wind speed between 0 - 20 mph
+
